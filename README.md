@@ -11,5 +11,5 @@ This project is a dashboard for monitoring the OLA application's booking statist
 - Ratings
 
 ## Installation
-Screenshort ?Demos
-Example: ![Dashboard Previwe].(https://github.com/Amangupta1274/OLA/blob/main/OLA%20Dashboard.png).
+Screenshort/Demos
+Example: ![Dashboard Previwe].([https://github.com/Amangupta1274/OLA/blob/main/OLA%20Dashboard.png](https://github.com/Amangupta1274/OLA/blob/main/OLA%20Dashboard.png?raw=true)).
