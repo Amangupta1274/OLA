@@ -12,4 +12,4 @@ This project is a dashboard for monitoring the OLA application's booking statist
 
 ## Installation
 Screenshort/Demos
-Example: ![Dashboard Previwe].([https://github.com/Amangupta1274/OLA/blob/main/OLA%20Dashboard.png](https://github.com/Amangupta1274/OLA/blob/main/OLA%20Dashboard.png?raw=true)).
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
